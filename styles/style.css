@@ -41,14 +41,14 @@ ol {
   justify-self: center;
   align-self: center;
   width: 1140px;
-  margin: 133px 30px;
   display: flex;
   flex-direction: row;
   gap: 30px;
+  margin: auto;
 }
 .result {
   width: 711px;
-  padding-top: 79px;
+  align-self: flex-end;
 }
 .content__details {
   display: flex;
